@@ -96,8 +96,5 @@ namespace ContactsAPI.Controllers
             }
             return NotFound();
         }
-
-
-        //Nået til 30:43 min på youtube video https://www.youtube.com/watch?v=3NWT9k-6xGg&ab_channel=SameerSaini
     }
 }
